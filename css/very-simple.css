@@ -577,3 +577,6 @@ article {
 
 .all-tags::before {
   content: "\f02c"; }
+
+.gh-comments {
+  font-size: 12px; }
