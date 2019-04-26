@@ -13,12 +13,12 @@
   border-radius: 2px;
   overflow: auto;
   color: #cccccc;
-  font-size: 16px;
-  line-height: 1.6em; }
+  font-size: 14px;
+  line-height: 1.4em; }
 
 .line-numbers, article .highlight .gutter pre, article .gist-not-used .gist-file .gist-data .line-numbers {
   color: #666;
-  font-size: 16px; }
+  font-size: 14px; }
 
 article pre, article code {
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace; }
@@ -64,7 +64,7 @@ article .highlight .gutter pre {
   padding-right: 20px; }
 
 article .highlight .line {
-  height: 1.6em; }
+  height: 1.4em; }
 
 article .gist-not-used {
   margin: 0;
